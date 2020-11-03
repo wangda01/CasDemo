@@ -1,0 +1,4 @@
+# Project exclude paths
+/CasClient1/target/
+/CasClient2/target/
+/CasDemo4/target/
